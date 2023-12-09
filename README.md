@@ -11,6 +11,28 @@ I Love Coding...
 * 🤝  I'm open to collaborating on Initiatives aiming to make a positive impact on society or the environment
 * ⚡  For me, web development is more than a skill—it's a journey of continuous learning and creativity. I'm driven by the desire to contribute to the digital landscape, making it more accessible, enjoyable, and visually captivating.
 
+### My Featured Projects 🚀
+
+Below are some of the exciting projects I've worked on. Feel free to explore the code and check out the live demos!
+
+#### 1. Softonne Electronic Brandshop 
+
+- **Client-side Code:** [GitHub Repo](https://github.com/Amimu10/Softnee-Electronic-Brandshop-Frontend.git) 
+- **Server-side Code:** [GitHub Repo](https://github.com/Amimu10/Softnee-Electronic-Brandshop-Backend.git)
+- **Live Demo:** [Live Link](https://elite-electro.web.app/)
+
+#### 2. Library Management 
+
+- **Client-side Code:** [GitHub Repo](https://github.com/Amimu10/Library-Management-Frontend.git)
+- **Server-side Code:** [GitHub Repo](https://github.com/Amimu10/Library-Management-Backend.git)
+- **Live Demo:** [Live Link](https://library-management-d02e0.web.app/)
+
+#### 3. Project Name 3
+
+- **Client-side Code:** [GitHub Repo](https://github.com/Amimu10/E-commerce-Management-Frontend.git)
+- **Server-side Code:** [GitHub Repo](https://github.com/Amimu10/E-commerce-Management-Backend.git)
+- **Live Demo:** [Live Link](https://celebrated-cajeta-8cc0fc.netlify.app/)
+
 ### Skills
 
 
