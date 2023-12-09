@@ -16,6 +16,20 @@ I Love Coding...
 Below are some of the exciting projects I've worked on. Feel free to explore the code and check out the live demos!
 
 #### 1. Softonne Electronic Brandshop 
+  #### Technologies Used:
+  - **Server Technology Stack:**
+    - MongoDB for efficient storage and retrieval of product data.
+    - Express.js framework for building a robust and scalable server.
+    
+  - **Client Technology Stack:**
+    - Vite for a fast and efficient development environment.
+    - Tailwind CSS for styling, ensuring a responsive and visually appealing interface.
+    - Firebase Authentication for secure user sign-up, log-in, and access control.
+- **Comprehensive Product Showcase:**
+  - Showcases an extensive list of products associated with each brand on dedicated product pages, providing detailed information on product details pages.
+
+- **User-Friendly Product Management:**
+  - Enables authenticated users to add new products through a dedicated form, implementing Firebase authentication for secure access and seamless integration into the database.
 
 - **Client-side Code:** [GitHub Repo](https://github.com/Amimu10/Softnee-Electronic-Brandshop-Frontend.git) 
 - **Server-side Code:** [GitHub Repo](https://github.com/Amimu10/Softnee-Electronic-Brandshop-Backend.git)
