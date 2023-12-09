@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
-
-🚀 Aspiring Web Developer | Frontend Maestro | React Enthusiast Hey fellow coders! 👋 I'm Amimul Ahsan, on a thrilling journey to become a skilled web developer, specializing in crafting stunning and intuitive user experiences. My coding adventure orbits around the realms of JavaScript, React, Express, and MongoDB, with a genuine passion for frontend sorcery. 💻✨
+I Love Coding...
 
 * 🌍  I'm based in Rangpur, Bangladesh
 * ✉️  You can contact me at [amimul211@gmail.com](mailto:amimul211@gmail.com)
