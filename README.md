@@ -22,6 +22,25 @@ Below are some of the exciting projects I've worked on. Feel free to explore the
 - **Live Demo:** [Live Link](https://elite-electro.web.app/)
 
 #### 2. Library Management 
+### 2. Library Management 
+
+- **Dynamic Category Display:**
+  - Allows users to explore and discover books dynamically categorized based on their interests, providing an intuitive and personalized browsing experience.
+
+- **Book Details and Borrowing:**
+  - Enables users to access comprehensive information about each book, including the author, description, and the functionality to borrow or manage borrowed books in a dedicated list.
+
+- **Firebase Authentication:**
+  - Implements secure Firebase Authentication, enabling users to create accounts, log in, use Google login, and access personalized features such as borrowing books and managing their book lists.
+
+- **Server-side Technology Stack:**
+  - Utilizes MongoDB as the database for efficient storage and retrieval of book data.
+  - Implements the Express.js framework for building a robust and scalable server.
+  - Leverages Node.js for server-side JavaScript runtime, ensuring fast and asynchronous operations.
+  
+  - **Client-side Code:** [GitHub Repo](https://github.com/Amimu10/Library-Management-Frontend.git)
+  - **Server-side Code:** [GitHub Repo](https://github.com/Amimu10/Library-Management-Backend.git)
+  - **Live Demo:** [Live Link](https://library-management-d02e0.web.app/)
 
 - **Client-side Code:** [GitHub Repo](https://github.com/Amimu10/Library-Management-Frontend.git)
 - **Server-side Code:** [GitHub Repo](https://github.com/Amimu10/Library-Management-Backend.git)
