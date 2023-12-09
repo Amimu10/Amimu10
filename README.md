@@ -28,6 +28,13 @@ Below are some of the exciting projects I've worked on. Feel free to explore the
 - **Live Demo:** [Live Link](https://library-management-d02e0.web.app/)
 
 #### 3. E-commerce-Management 
+- **Advanced Security Measures:**
+  - Prioritizes user security with Firebase Authentication for secure logins, implements Captcha verification to prevent automated attacks, ensuring a safe and protected user experience.
+- **Versatile Multi-Role System:**
+  - Implements a multi-role system with distinct roles like customer, shop manager, and system admin, tailoring access and permissions for different user types.
+- **Cutting-Edge Technologies for Dynamic UI:**
+  - Leverages modern technologies, including Vite for rapid development, React.js for dynamic interfaces, Tailwind CSS for stylish and responsive designs, and Material-UI for consistent UI components. Enhances the user interface with AOS and Lottie animations for a visually engaging and dynamic shopping experience.
+
 
 - **Client-side Code:** [GitHub Repo](https://github.com/Amimu10/E-commerce-Management-Frontend.git)
 - **Server-side Code:** [GitHub Repo](https://github.com/Amimu10/E-commerce-Management-Backend.git)
