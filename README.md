@@ -27,7 +27,7 @@ Below are some of the exciting projects I've worked on. Feel free to explore the
 - **Server-side Code:** [GitHub Repo](https://github.com/Amimu10/Library-Management-Backend.git)
 - **Live Demo:** [Live Link](https://library-management-d02e0.web.app/)
 
-#### 3. Project Name 3
+#### 3. E-commerce-Management 
 
 - **Client-side Code:** [GitHub Repo](https://github.com/Amimu10/E-commerce-Management-Frontend.git)
 - **Server-side Code:** [GitHub Repo](https://github.com/Amimu10/E-commerce-Management-Backend.git)
