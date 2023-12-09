@@ -93,6 +93,6 @@ Below are some of the exciting projects I've worked on. Feel free to explore the
 
 <a href="http://www.github.com/Amimu10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amimu10&stroke=ef4444&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
-<a href="http://www.github.com/Amimu10"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amimu10&bg_color=22272e&color=ef4444&line=0891b2&point=ef4444&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Amimu10">username=Amimu10&bg_color=22272e&color=ef4444&line=0891b2&point=ef4444&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Amimu10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amimu10&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
