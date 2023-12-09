@@ -91,9 +91,9 @@ Below are some of the exciting projects I've worked on. Feel free to explore the
 
 <a href="http://www.github.com/Amimu10"><img src="https://github-readme-stats.vercel.app/api?username=Amimu10&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Amimu10's GitHub stats" /></a>
 
-### 📈 My Current Stats
+<b>📈 My Current Stats</b>
 <a href="http://www.github.com/Amimu10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amimu10&stroke=ef4444&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
 
-### Top Languges 
+<b>Top Languges<b/> 
 <a href="https://github.com/Amimu10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amimu10&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
