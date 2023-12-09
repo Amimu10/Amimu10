@@ -1,7 +1,4 @@
- <div style="position:relative; overflow:hidden; width:100%; padding-bottom:75%;">
-    <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute; top:0; left:0;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ====================================================================================================================================
 Hi My name is Amimul Ahsan
