@@ -1,4 +1,6 @@
-![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![]<div style="position: relative; width: 100%; overflow: hidden; padding-bottom: 56.25%;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
+</div>
 ====================================================================================================================================
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amimul Ahsan
 Web Developer
