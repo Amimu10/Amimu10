@@ -1,17 +1,19 @@
-![]<div style="position: relative; width: 100%; overflow: hidden; padding-bottom: 56.25%;">
+<div style="position: relative; width: 100%; overflow: hidden; padding-bottom: 56.25%;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="position: absolute; width: 100%; height: 100%; object-fit: cover;">
 </div>
-====================================================================================================================================
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amimul Ahsan
+
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amimul Ahsan
+
 Web Developer
 -------------
+
 I Love Coding...
 
-* 🌍  I'm based in Rangpur, Bangladesh
-* ✉️  You can contact me at [amimul211@gmail.com](mailto:amimul211@gmail.com)
-* 🧠  I'm learning Typescript, GraphQL, Next js
-* 🤝  I'm open to collaborating on Initiatives aiming to make a positive impact on society or the environment
-* ⚡  For me, web development is more than a skill—it's a journey of continuous learning and creativity. I'm driven by the desire to contribute to the digital landscape, making it more accessible, enjoyable, and visually captivating.
+* 🌍 I'm based in Rangpur, Bangladesh
+* ✉️ You can contact me at [amimul211@gmail.com](mailto:amimul211@gmail.com)
+* 🧠 I'm learning Typescript, GraphQL, Next.js
+* 🤝 I'm open to collaborating on initiatives aiming to make a positive impact on society or the environment
+* ⚡ For me, web development is more than a skill—it's a journey of continuous learning and creativity. I'm driven by the desire to contribute to the digital landscape, making it more accessible, enjoyable, and visually captivating.
 
 ### My Featured Projects 🚀
 
